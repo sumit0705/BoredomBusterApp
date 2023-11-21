@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BoredomBusterApp</string>
+    <string name="fetch_activity_button">Fetch Activity</string>
+</resources>
